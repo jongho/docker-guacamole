@@ -1,3 +1,6 @@
+[![Docker Build Status](https://img.shields.io/docker/cloud/build/zwolf/guacamole)](https://hub.docker.com/r/zwolf/guacamole/)
+[![Docker Build Automated](https://img.shields.io/docker/cloud/automated/zwolf/guacamole)](https://hub.docker.com/r/zwolf/guacamole/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/zwolf/guacamole)](https://hub.docker.com/r/zwolf/guacamole/)
 
 # Docker Guacamole with Korean Fonts
 
