@@ -27,6 +27,7 @@ RUN apt-get update && apt-get install -y \
     libswscale-dev libfreerdp-dev libpango1.0-dev \
     libssh2-1-dev libtelnet-dev libvncserver-dev \
     libpulse-dev libssl-dev libvorbis-dev libwebp-dev \
+    fonts-noto-mono fonts-noto-cjk fonts-nanum-coding \
     ghostscript postgresql-${PG_MAJOR} \
   && rm -rf /var/lib/apt/lists/*
 
